@@ -1,4 +1,5 @@
 ## About Me 
-I'm Charles. I'm currently a student.<br/>
-Aspiring AI developer/ Softwre engineer.
-Ocassionally a chess player.
+I'm Charles.<br/>
+I'm currently an undergrad.<br/>
+Aspiring AI developer/ Softwre engineer.<br/>
+Ocassionally a chess player.<br/>
